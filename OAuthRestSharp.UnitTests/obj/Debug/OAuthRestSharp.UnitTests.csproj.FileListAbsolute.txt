@@ -1,0 +1,11 @@
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\OAuthRestSharp.UnitTests.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\OAuthRestSharp.UnitTests.pdb
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\OAuthRestSharp.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\RestSharp.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\OAuthRestSharp.pdb
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\RestSharp.xml
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\obj\Debug\OAuthRestSharp.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\obj\Debug\OAuthRestSharp.UnitTests.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp.UnitTests\obj\Debug\OAuthRestSharp.UnitTests.pdb

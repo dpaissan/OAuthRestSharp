@@ -1,0 +1,7 @@
+C:\Projects\OAuthRestSharp\OAuthRestSharp\bin\Debug\OAuthRestSharp.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp\bin\Debug\OAuthRestSharp.pdb
+C:\Projects\OAuthRestSharp\OAuthRestSharp\bin\Debug\RestSharp.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp\bin\Debug\RestSharp.xml
+C:\Projects\OAuthRestSharp\OAuthRestSharp\obj\Debug\OAuthRestSharp.csprojResolveAssemblyReference.cache
+C:\Projects\OAuthRestSharp\OAuthRestSharp\obj\Debug\OAuthRestSharp.dll
+C:\Projects\OAuthRestSharp\OAuthRestSharp\obj\Debug\OAuthRestSharp.pdb
